@@ -1,6 +1,6 @@
 ## Team:
 
-1. Ripudaman Singh - 202054565
+1. Ripudaman Singh - `202054565`
 - Implemented Crosshair improvements (visibility, contrast, bullet position, color opacity)
 - Added Difficulty Level selection
 - Implemented Invincibility with a delay for the Player Character
@@ -8,7 +8,7 @@
 - Implemented Shoot Delay (cooldown) for strategic gameplay
 - Modified Zombie AI acceptance rate
 
-2. Wasif Ibrar - 202149944
+2. Wasif Ibrar - `202149944`
 - Created Win and Lose screens with options to respawn or return to the main menu
 - Added in-game pause menu
 - Designed and implemented the main menu screen with difficulty level selection
