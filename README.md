@@ -20,10 +20,12 @@
 
 UE5 - Adding a Crosshair to the UE5 FPS Template + Basic Line trace (YouTube)
 
-How To Create UMG UI in Unreal Engine. For Main Menu, Pause Screen, Win and Lose screens.
+[How To Create UMG UI in Unreal Engine.](https://www.youtube.com/watch?v=lhhxvgWOQsk)
 
-How To Create UMG UI in Unreal Engine - Main Menu (YouTube)
+For Main Menu, Pause Screen, Win and Lose screens.
 
+[How To Create UMG UI in Unreal Engine - Main Menu (YouTube)
+](https://www.youtube.com/watch?v=-hPFhZ1i_gU)
 ### Game Story:
 
 The current template lacks a detailed game story, so we thought of something to add to the atmosphere of the game.
