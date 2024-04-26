@@ -24,7 +24,7 @@ How To Create UMG UI in Unreal Engine. For Main Menu, Pause Screen, Win and Lose
 
 How To Create UMG UI in Unreal Engine - Main Menu (YouTube)
 
-Game Story:
+### Game Story:
 
 The current template lacks a detailed game story, so we thought of something to add to the atmosphere of the game.
 There has been a Zombie Apocalypse, and humanity has to fight back to survive in the outside world. 
