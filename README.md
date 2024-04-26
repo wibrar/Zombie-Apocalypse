@@ -1,20 +1,23 @@
-Team:
+## Team:
 
-Ripudaman Singh - 202054565
-Implemented Crosshair improvements (visibility, contrast, bullet position, color opacity)
-Added Difficulty Level selection
-Implemented Invincibility with a delay for the Player Character
-Adjusted projectile offset for consistency
-Implemented Shoot Delay (cooldown) for strategic gameplay
-Modified Zombie AI acceptance rate
-Wasif Ibrar - 202149944
-Created Win and Lose screens with options to respawn or return to the main menu
-Added in-game pause menu
-Designed and implemented the main menu screen with difficulty level selection
-Added HUD with Player Health bar
-Sources:
+1. Ripudaman Singh - 202054565
+- Implemented Crosshair improvements (visibility, contrast, bullet position, color opacity)
+- Added Difficulty Level selection
+- Implemented Invincibility with a delay for the Player Character
+- Adjusted projectile offset for consistency
+- Implemented Shoot Delay (cooldown) for strategic gameplay
+- Modified Zombie AI acceptance rate
 
-Adding a Crosshair to the UE5 FPS Template + Basic Line trace
+2. Wasif Ibrar - 202149944
+- Created Win and Lose screens with options to respawn or return to the main menu
+- Added in-game pause menu
+- Designed and implemented the main menu screen with difficulty level selection
+- Added HUD with Player Health bar
+
+## Sources:
+
+### Adding a Crosshair to the UE5 FPS Template + Basic Line trace:
+
 UE5 - Adding a Crosshair to the UE5 FPS Template + Basic Line trace (YouTube)
 How To Create UMG UI in Unreal Engine. For Main Menu, Pause Screen, Win and Lose screens.
 How To Create UMG UI in Unreal Engine - Main Menu (YouTube)
